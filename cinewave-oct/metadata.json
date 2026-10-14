@@ -1,0 +1,6 @@
+{
+  "name": "CineWave",
+  "description": "A responsive, dark-themed movie streaming platform with local catalog management, HTML5 playback, watchlist persistence, and Cloudflare R2/D1/Workers service layer readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
